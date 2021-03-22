@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOKC01. 
+- 👋 Hi, I’m Zykov Maxim Valerievich. 
 - 🌱 I’m a student of RTU MIREA.
 - 👀 I’m interested in software development in C# and Python.
 - 🌱 I’m currently learning to develop useful software.
